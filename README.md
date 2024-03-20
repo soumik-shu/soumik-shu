@@ -12,12 +12,12 @@
 ![](https://komarev.com/ghpvc/?username=soumik-shu&base=0)
 #### 📈 Competitive Programming
 
-![](https://raw.githubusercontent.com/emamhasan1804/demo/main/output/max_rating.svg)
+![](https://raw.githubusercontent.com/soumik-shu/demo/main/output/max_rating.svg)
 
-![](https://raw.githubusercontent.com/emamhasan1804/demo/main/output/light_card.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/emamhasan1804/demo/main/output/light_card.svg)
+![](https://raw.githubusercontent.com/soumik-shu/demo/main/output/light_card.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/soumik-shu/demo/main/output/light_card.svg)
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/emam_hasan_himu?theme=light)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Soumik_SHU?theme=dark)
 
 
 #### Languages and Tools:
