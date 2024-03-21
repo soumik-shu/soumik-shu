@@ -2,6 +2,7 @@
 
 ## I am a Newbie Programmer!
 
+- Background Character
 - Lazy
 
 #### Contact me:
