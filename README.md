@@ -21,7 +21,7 @@
 
 
 #### 📈 Competitive Programming
-![](https://raw.githubusercontent.com/soumik-shu/demo/main/output/dark_card.svg)
+![](https://raw.githubusercontent.com/soumik-shu/demo/main/output/light_card.svg)
 
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Soumik_SHU?theme=dark&font=Patrick%20Hand%20SC&ext=contest)
