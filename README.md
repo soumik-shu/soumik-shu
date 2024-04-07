@@ -4,7 +4,8 @@
 
 - Background Character
 - Lazy
-## Goal to achieve before the end of the first semester at the university.**vvvv**
+## Goal to achieve before the end of the first semester at the university:
+❖ Make my comfort zone around 1300 rating in codeforces.
 
 #### Contact me:
 <a href="https://www.facebook.com/soumik.shu"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" width="30" height="30"/></a>
