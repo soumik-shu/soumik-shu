@@ -20,8 +20,6 @@
 
 #### 📈 Competitive Programming
 
-![](https://raw.githubusercontent.com/soumik-shu/demo/main/output/max_rating.svg)
-
 ![](https://raw.githubusercontent.com/soumik-shu/demo/main/output/light_card.svg#gh-dark-mode-only)
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Soumik_SHU?theme=dark)
