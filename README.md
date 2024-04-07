@@ -19,7 +19,7 @@
 
 
 #### 📈 Competitive Programming
-![](https://raw.githubusercontent.com/soumik-shu/demo/main/output/light_card.svg#gh-any-mode)
+![](https://raw.githubusercontent.com/soumik-shu/demo/main/output/light_card.svg)
 
 ![](https://raw.githubusercontent.com/soumik-shu/demo/main/output/light_card.svg#gh-dark-mode-only)
 
