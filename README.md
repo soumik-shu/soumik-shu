@@ -2,8 +2,10 @@
 
 ## I am a Newbie Programmer!
 
-- Background Character
-- Lazy
+- Nothing Special
+- Introvert 
+- Enjoy Coding
+
 ## Goal to achieve before the end of the first year:
 ❖ Make my comfort zone around 1300 rating in codeforces.
 
