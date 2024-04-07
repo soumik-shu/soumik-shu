@@ -31,6 +31,7 @@
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=soumik-shu&show_icons=true)  
+/*![GitHub stats](https://github-readme-stats.vercel.app/api?username=soumik-shu&show_icons=true)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soumik-shu)](https://github.com/anuraghazra/github-readme-stats)
+*/
