@@ -3,7 +3,7 @@
 ## I am a Newbie Programmer!
 
 - Nothing Special
-- Introvert 
+- Being Introvert 
 - Enjoy Coding
 
 ## Goal to achieve before the end of the first year:
