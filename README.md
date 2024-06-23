@@ -11,7 +11,6 @@
 
 ## Goal to achieve before the end of the first year:
 ❖ Become a specialist on Codeforces
-
 ❖ Develop my portfolio website independently
 
 
