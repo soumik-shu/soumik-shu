@@ -2,12 +2,17 @@
 
 ## I am a Newbie Programmer!
 
-- Nothing Special
-- Being Introvert 
-- Enjoy Coding
+- Tech Enthusiast
+- Enjoys Coding
+- Aspiring Programmer
+- Aspiring Web Developer
+
+
 
 ## Goal to achieve before the end of the first year:
-❖ Make my comfort zone around 1400 rating in codeforces.
+❖ Become a specialist on Codeforces.
+❖ Develop my portfolio website independently.
+
 
 
 #### Contact me:
