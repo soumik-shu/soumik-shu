@@ -9,7 +9,7 @@
 
 
 
-## Goal to achieve before the end of the first year:
+## Goals to Achieve Before the End of the First Year:
 ❖ Become a specialist on Codeforces      
 ❖ Develop my portfolio website independently
 
